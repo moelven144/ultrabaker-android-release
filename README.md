@@ -1,21 +1,23 @@
-# Ultra Baker — Android APK
+# Ultra Baker for Android
 
-Direct download for the Ultra Baker Android app (Capacitor wrapper around https://ultrabaker.com).
+Direct download of the Ultra Baker Android app: a sourdough baker's percentage calculator with a bake-day timer, in Norwegian and English.
+
+**Download:** [ultra-baker-free.apk](https://github.com/moelven144/ultrabaker-android-release/releases/latest/download/ultra-baker-free.apk), the latest release, version 1.1, about 5 MB.
 
 ## Install
 
-1. Download `ultra-baker-free.apk` from the [latest release](https://github.com/permagnehelseth/ultrabaker-android-release/releases/latest).
-2. On your Android device, allow installs from your browser (Settings → Apps → your browser → Install unknown apps).
-3. Open the APK and tap Install.
+1. Download the APK.
+2. If you have version 1.0, uninstall it first. Version 1.1 is signed with a new key.
+3. Allow installs from your browser (Settings → Apps → your browser → Install unknown apps), then open the APK and tap Install.
 
-## What's in the APK
+## What it does
 
-- 11.5 MB
-- Bundle ID: `com.permagnehelseth.ultrabakerfree`
-- Permissions: `INTERNET` only (no camera, location, contacts, microphone, etc.)
-- Wraps the live web at https://ultrabaker.com — future updates ship instantly via the website.
-- Local fallback bundled in case the device is offline.
+- Works offline. The calculator and timer are inside the app.
+- Opens on the calculator, in Norwegian or English, following the phone's language.
+- Notifies you when each step of the bake begins, also when the app is closed.
+- No account and no ads. Nothing is uploaded: recipes and the timer stay on the phone.
+- Permissions: internet, notifications and exact alarms.
 
-## Source
+The same calculator runs on the web at <https://ultrabaker.com>. There is also an iPhone, iPad and Apple Watch version on the App Store.
 
-The app and the calculator UI live at <https://ultrabaker.com>. iPhone / iPad version on the App Store.
+The source is in the private repo `moelven144/ultrabakerfree` (`android/`).
