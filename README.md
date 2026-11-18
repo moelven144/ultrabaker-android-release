@@ -2,7 +2,7 @@
 
 Direct download of the Ultra Baker Android app: a sourdough baker's percentage calculator with a bake-day timer, in Norwegian and English.
 
-**Download:** [ultra-baker-free.apk](https://github.com/moelven144/ultrabaker-android-release/releases/latest/download/ultra-baker-free.apk), the latest release, version 1.1.1, about 15 MB.
+**Download:** [ultra-baker-free.apk](https://github.com/moelven144/ultrabaker-android-release/releases/latest/download/ultra-baker-free.apk), the latest release, version 1.2.0, about 15 MB.
 
 ## Install
 
@@ -16,6 +16,7 @@ Direct download of the Ultra Baker Android app: a sourdough baker's percentage c
 - Opens on the calculator, in Norwegian or English, following the phone's language.
 - Notifies you when each step of the bake begins, also when the app is closed.
 - No account and no ads. Nothing is uploaded: recipes and the timer stay on the phone.
+- Ultra Baker Local: order bread from a home baker nearby, delivered. Ordering opens ultrabaker.com in the in-app browser.
 - Permissions: internet, notifications and exact alarms.
 
 The same calculator runs on the web at <https://ultrabaker.com>. There is also an iPhone, iPad and Apple Watch version on the App Store.
